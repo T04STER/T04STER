@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚  3rd year Applied Computer Science student<br> ✉️ dawidglinkowski@onet.eu</p>
+<p align="left">⚛️ BEng. Applied Computer Science <br>📚 1st year MSc. Artificial Inteligence student  <br> ✉️ dawidglinkowski@onet.eu</p>
 
 ###
 
